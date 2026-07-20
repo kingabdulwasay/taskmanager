@@ -4,8 +4,8 @@ A simple full-stack Task Manager application that allows users to create, read, 
 
 ## Live Links
 
-- **Frontend:** 
-- **Backend:** 
+- **Frontend:** https://todofactory.netlify.app/
+- **Backend:** https://basic-crud-ivory.vercel.app/
 
 ---
 
