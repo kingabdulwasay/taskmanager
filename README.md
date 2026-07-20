@@ -105,19 +105,5 @@ Deployed on **Vercel**
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── create-task.png
-└── update-task.png
-```
-
----
 
 
