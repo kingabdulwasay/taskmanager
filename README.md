@@ -1,4 +1,4 @@
-# Task Manager
+# Todo Factory
 
 A simple full-stack Task Manager application that allows users to create, read, update, and delete tasks. The frontend is built with **HTML, CSS, and JavaScript**, while the backend is built with **Node.js** with proper API documentation **/docs** and deployed on **Vercel**. The frontend is deployed on **Netlify**.
 
